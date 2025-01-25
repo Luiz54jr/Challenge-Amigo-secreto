@@ -16,4 +16,13 @@ Este é um projeto simples para sortear um amigo secreto. Usuário digita o nome
 
 ## Passo a passo
 
-1. acesse agora o [link] 
+1. acesse agora o [link] (https://github.com/Luiz54jr/Challenge-Amigo-secreto.git) para utilizar
+2. digite o nome de um amigo e clique no botão "adicionar"
+3. Clique no botão "Sortear Amigo" para que seja sorteado um amigo aleiatoriamente da lista que foi criada
+4. Se caso sortear o nome e esse seja o seu clique novamente em "Sortear Amigo"
+
+### Tecnologias 
+
+HTML
+CSS
+JavaScript
